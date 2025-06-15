@@ -1,0 +1,25 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "A collection of data structure implementations in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data-structures",
+    "javascript",
+    "algorithms"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
